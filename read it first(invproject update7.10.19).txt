@@ -1,0 +1,22 @@
+To install the latest updated project of inventory managment
+
+//---- I have downloaded all the cdns files so now project will run in offline mode without connecting to internet-----//
+
+Step 1: clear your browsers history to ensure no cdn content is save in browser.
+
+//---- I have cleared many garbage data from the database----//
+
+Step 2: delete all the tables in database inv_project and re-import the new "inv_project.sql" file
+
+//----   ----// 
+
+Step 3: After extracting Copy "invproject" folder and paste it in "htdoc"
+folder.
+
+updated Version Fixes includes
+
+* Simple bug fixes
+* Reduce loading time
+* Works completely offline
+* All reports are displayed in report page with date filter feature
+*User feature removed only Admin can access inventory
